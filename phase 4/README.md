@@ -5,16 +5,6 @@ A real-time multi-client chat system built in Python using `socket` for networki
 
 ---
 
-## 📸 Screenshots
-
-> Replace with actual images in your `images/` folder
-
-| Login & Setup | Chat Interface |
-|---------------|----------------|
-| ![Login](images/login.png) | ![Chat UI](images/chat_ui.png) |
-
----
-
 ## 🚀 Features
 
 - User-defined nickname
@@ -45,6 +35,8 @@ Install PyQt6:
 ```bash
 pip install PyQt6
 ```
+
+### ▶️ Run Instructions
 
 1. **Start the Server:**
 
@@ -87,12 +79,6 @@ The client GUI parses this structure to format each message with proper color an
 - [ ] File sharing support
 - [ ] Emoji and rich media support
 - [ ] Online status indicators
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
