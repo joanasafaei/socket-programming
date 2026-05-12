@@ -6,8 +6,6 @@ This project uses only built-in Python modules. No additional packages are neede
 
 ## ▶️ How to Run
 
-![Alt text](phase_2-1.png)
-
 ### 🟢 Start the Server
 
 ```bash

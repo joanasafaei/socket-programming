@@ -7,10 +7,6 @@ pip install termcolor
 
 ---
 
-## ▶️ Usage
-
-![Alt text](phase_1-1.png)
-
 1. First, start the server:
 ```bash
 python server.py
